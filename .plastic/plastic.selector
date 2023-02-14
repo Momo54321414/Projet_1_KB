@@ -1,0 +1,4 @@
+repository "CEGEP@Kelian@cloud"
+  path "/"
+    br "/main"
+    co "/main"
